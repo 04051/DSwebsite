@@ -211,7 +211,8 @@ body {
   font-size: 14px;
   line-height: 20px;
   color: #333333;
-  background-color: #E0EEEE;
+  background: rgb(144,193,217);
+  background: linear-gradient(180deg, rgba(144,193,217,1) 0%, rgba(191,220,241,1) 50%, rgba(120,212,231,1) 100%);
 }
 a {
   color: #0088cc;
